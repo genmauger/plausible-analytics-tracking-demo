@@ -1,0 +1,4 @@
+# flyctl launch added from .jekyll-cache/.gitignore
+# ignore everything in this directory
+.jekyll-cache/**/*
+fly.toml
